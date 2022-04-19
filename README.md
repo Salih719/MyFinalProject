@@ -1,3 +1,3 @@
 # MyFinalProject
 
-## C# Backend
+## Katmanlı mimari C# Backend .Net version 3.1
